@@ -1,0 +1,93 @@
+learning rate=0.01
+epoch=20
+batch size=10
+
+Epoch: 1/20
+-----------
+Training loss: 1.5488	accuracy: 0.3236
+
+Epoch: 2/20
+-----------
+Training loss: 1.0641	accuracy: 0.5672
+
+Epoch: 3/20
+-----------
+Training loss: 0.9829	accuracy: 0.6032
+
+Epoch: 4/20
+-----------
+Training loss: 0.9018	accuracy: 0.6415
+
+Epoch: 5/20
+-----------
+Training loss: 0.8335	accuracy: 0.6764
+
+Epoch: 6/20
+-----------
+Training loss: 0.8126	accuracy: 0.6852
+
+Epoch: 7/20
+-----------
+Training loss: 0.7573	accuracy: 0.7129
+
+Epoch: 8/20
+-----------
+Training loss: 0.6978	accuracy: 0.7329
+
+Epoch: 9/20
+-----------
+Training loss: 0.6564	accuracy: 0.7570
+
+Epoch: 10/20
+------------
+Training loss: 0.6082	accuracy: 0.7774
+
+Epoch: 11/20
+------------
+Training loss: 0.5782	accuracy: 0.7880
+
+Epoch: 12/20
+------------
+Training loss: 0.5498	accuracy: 0.7995
+
+Epoch: 13/20
+------------
+Training loss: 0.5237	accuracy: 0.8092
+
+Epoch: 14/20
+------------
+Training loss: 0.5336	accuracy: 0.8052
+
+Epoch: 15/20
+------------
+Training loss: 0.5333	accuracy: 0.8078
+
+Epoch: 16/20
+------------
+Training loss: 0.5172	accuracy: 0.8136
+
+Epoch: 17/20
+------------
+Training loss: 0.5162	accuracy: 0.8160
+
+Epoch: 18/20
+------------
+Training loss: 0.4937	accuracy: 0.8230
+
+Epoch: 19/20
+------------
+Training loss: 0.4826	accuracy: 0.8268
+
+Epoch: 20/20
+------------
+Training loss: 0.5325	accuracy: 0.8120
+
+Total time: 6630.10s
+
+Accuracy on the ALL test images: 86 %
+Accuracy of   sea : 86 %
+Accuracy of forest : 95 %
+Accuracy of mountain : 81 %
+Accuracy of buildings : 84 %
+Accuracy of glacier : 81 %
+Accuracy of street : 87 %
